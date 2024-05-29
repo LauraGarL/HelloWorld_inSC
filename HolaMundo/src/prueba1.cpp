@@ -24,7 +24,7 @@ SC_MODULE(hello_world){
 	SC_CTOR(hello_world){
 	}
 	void say_hello(){
-		cout<<"Hello World \n";
+		cout<<"Hello World Lau \n";
 	}
 };
 
